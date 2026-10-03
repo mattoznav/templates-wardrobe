@@ -7,3 +7,6 @@
 [submodule "customer-app"]
 	path = customer-app
 	url = https://github.com/mattoznav/templates-wardrobe-customer-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mattoznav/templates-wardrobe-backend.git
