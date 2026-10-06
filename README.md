@@ -101,4 +101,8 @@ Payments use the fake provider: no card is needed, and the flow (pending, confir
 | admin | `npm run build` |
 | customer-app | `flutter test` |
 
+## License
+
+The code is released under the [MIT License](LICENSE). Product photos are not part of the repository: they are loaded from Unsplash under the [Unsplash License](https://unsplash.com/license).
+
 Part of the [`templates`](https://github.com/mattoznav/templates) collection.
