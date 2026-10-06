@@ -9,6 +9,8 @@ A complete starting point for a clothing store: catalogue with colours and sizes
 | [`admin`](admin) | Back office: sales, orders, products, stock, returns | Angular | `localhost:4201` |
 | [`customer-app`](customer-app) | Mobile app for customers | Flutter | iOS and Android |
 
+Live demo of the website: [mattoznav.github.io/templates-wardrobe-website](https://mattoznav.github.io/templates-wardrobe-website/), a static showcase published from the website repository with GitHub Pages. It runs without the backend: the catalogue is captured at build time, and accounts, orders and returns stay in the visitor's browser.
+
 Each folder is a Git submodule with its own repository and its own README with more detail. The demo brand, "Halden", and everything about it are fictional; product photos come from Unsplash and are credited wherever they appear.
 
 ## Requirements
